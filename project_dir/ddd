@@ -1,0 +1,39 @@
+[33mcommit 79e0295fd73fb71e1e4614a1ac5ef9e422ef8d39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 15:10:00 2022 +0530
+
+    Revert "capgemini commited"
+    
+    This reverts commit ac42cfe00864eabe7883564c404ffa97bb981756.
+
+[33mcommit ac42cfe00864eabe7883564c404ffa97bb981756[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 15:08:50 2022 +0530
+
+    capgemini commited
+
+[33mcommit 2dbf95641e9c55c27c38fce47c573132397370fb[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 14:41:45 2022 +0530
+
+    Revert "new commit"
+    
+    This reverts commit d50c11fecd0b9885140b7fa0a023e7d49e3cd1b9.
+
+[33mcommit d50c11fecd0b9885140b7fa0a023e7d49e3cd1b9[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 14:15:13 2022 +0530
+
+    new commit
+
+[33mcommit 1eba5e0758bedf3de84ded85364146fa49369290[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 14:05:18 2022 +0530
+
+    commit index.html
+
+[33mcommit d205f0eb89a644b5073bcfb8c2b260d4298de437[m
+Author: sameersawant123 <sameersawant4545@gmail.com>
+Date:   Thu Mar 31 13:19:09 2022 +0530
+
+    commit index
